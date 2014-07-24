@@ -1,0 +1,27 @@
+{
+  "name": "terminal-twitter",
+  "version": "0.0.1",
+  "description": "A twitter cli made by [@wrossmck](http://twitter.com/wrossmck)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wrossmck/terminal-twitter.git"
+  },
+  "keywords": [
+    "twitter",
+    "node",
+    "client"
+  ],
+  "author": "wrossmck",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wrossmck/terminal-twitter/issues"
+  },
+  "homepage": "https://github.com/wrossmck/terminal-twitter",
+  "dependencies": {
+    "ntwitter": "^0.5.0"
+  }
+}

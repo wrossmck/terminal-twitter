@@ -1,0 +1,296 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"for",
+				"fore	for (each)"
+			],
+			[
+				"fs",
+				"fs.write"
+			],
+			[
+				"__",
+				"__dirname"
+			],
+			[
+				"deep",
+				"assert.deepEqual"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 73.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"su",
+				"Markdown Preview: Export HTML in Sublime Text"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 571.0
+	},
+	"console":
+	{
+		"height": 162.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/IBM_ADMIN/workspace/OutcomeManagement/EJBServer/tools/DataDictionary/bin/src/curam/datadictionary/CombineInfTables.java",
+		"/C/Users/IBM_ADMIN/workspace/OutcomeManagement/EJBServer/tools/DataDictionary/bin/src/curam/datadictionary/ParseDataManagerConfig.java",
+		"/C/Users/IBM_ADMIN/workspace/OutcomeManagement/EJBServer/tools/DataDictionary/bin/src/curam/datadictionary/DomUtils.java",
+		"/C/Users/IBM_ADMIN/workspace/OutcomeManagement/EJBServer/tools/DataDictionary/bin/src/curam/datadictionary/CommentsParser.java",
+		"/C/Users/IBM_ADMIN/workspace/OutcomeManagement/EJBServer/tools/DataDictionary/bin/src/curam/datadictionary/CombineMessages.java",
+		"/C/Users/IBM_ADMIN/workspace/OutcomeManagement/EJBServer/tools/DataDictionary/bin/src/curam/datadictionary/CombineCodetables.java",
+		"/C/Curam/OM-Main-Dev-WRM/OutcomeManagement/ActualVersions/BizInfVersion.txt",
+		"/C/Curam/OM-Main-Dev-WRM/OutcomeManagement/bootstrap.xml",
+		"/C/Users/IBM_ADMIN/workspace/clientdb.xml",
+		"/C/Users/IBM_ADMIN/workspace/OutcomeManagement/EJBServer/project/properties/Bootstrap.properties",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Users/IBM_ADMIN/Documents/Curam/SRC/datadictionary/bin/src/curam/datadictionary/CombineCodetables.java",
+		"/C/Users/IBM_ADMIN/Documents/Curam/SRC/datadictionary/bin/src/curam/datadictionary/CombineInfTables.java",
+		"/C/Users/IBM_ADMIN/Documents/Curam/SRC/datadictionary/bin/src/curam/datadictionary/CombineMessages.java",
+		"/C/Users/IBM_ADMIN/Documents/Curam/SRC/datadictionary/bin/src/curam/datadictionary/CommentsParser.java",
+		"/C/Users/IBM_ADMIN/Documents/Curam/SRC/datadictionary/bin/src/curam/datadictionary/ParseDataManagerConfig.java",
+		"/C/Users/IBM_ADMIN/Documents/Curam/SRC/datadictionary/bin/src/curam/datadictionary/DomUtils.java",
+		"/C/Users/IBM_ADMIN/workspace/OutcomeManagement/EJBServer/tools/DataDictionary/build.xml",
+		"/C/Users/IBM_ADMIN/Documents/GitHub/DEParser/gen/TableFilter/tablefilter.js",
+		"/C/Users/IBM_ADMIN/Documents/GitHub/DEParser/TableFilter/tablefilter.js",
+		"/C/notes/data/domino/java/WriteHtmlArgument.js",
+		"/C/Users/IBM_ADMIN/Documents/GitHub/DEParser/gen/script.js",
+		"/C/Users/IBM_ADMIN/Documents/GitHub/DEParser/DEParser.html",
+		"/C/Users/IBM_ADMIN/Documents/GitHub/DEParser/gen/out.md",
+		"/C/Users/IBM_ADMIN/Documents/GitHub/DEParser/gen/out.html",
+		"/C/Users/IBM_ADMIN/Documents/GitHub/DEParser/test/t.js",
+		"/C/Users/IBM_ADMIN/Documents/GitHub/DEParser/test/test.xml",
+		"/C/Users/IBM_ADMIN/Documents/GitHub/DEParser/package.json",
+		"/C/Users/IBM_ADMIN/Documents/GitHub/DEParser/input/Metadata_AdvanceDirective.xml",
+		"/C/Users/IBM_ADMIN/Documents/GitHub/DEParser/tests/t.js",
+		"/C/Users/IBM_ADMIN/Documents/GitHub/DEParser/node_modules/tape/package.json",
+		"/C/Users/IBM_ADMIN/Documents/GitHub/DEParser/node_modules/tape/index.js",
+		"/C/Users/IBM_ADMIN/AppData/Roaming/Sublime Text 3/Packages/JSHint Gutter/Default (Windows).sublime-keymap",
+		"/C/Users/IBM_ADMIN/AppData/Roaming/Sublime Text 3/Packages/User/SublimeOnSaveBuild.sublime-settings",
+		"/C/Users/IBM_ADMIN/Documents/Curam/README.md",
+		"/C/Users/IBM_ADMIN/Documents/Curam/DEParser.sublime-project",
+		"/C/Users/IBM_ADMIN/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/IBM_ADMIN/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/IBM_ADMIN/AppData/Roaming/Sublime Text 3/Packages/User/JSLint.sublime-settings",
+		"/C/Users/IBM_ADMIN/AppData/Roaming/Sublime Text 3/Packages/JSLint/JSLint.sublime-settings",
+		"/C/Users/IBM_ADMIN/AppData/Roaming/Sublime Text 3/Packages/User/BuildOnSave/bos.py",
+		"/C/Users/IBM_ADMIN/Documents/Curam/package.json",
+		"/C/Users/IBM_ADMIN/Documents/Curam/SRC/datadictionary/Readme.txt",
+		"/C/Users/IBM_ADMIN/Documents/GitHub/wrossmck.js/package.json",
+		"/C/Users/IBM_ADMIN/Documents/Curam/node_modules/xml2js/README.md",
+		"/c/notes/framework/https",
+		"/C/Users/IBM_ADMIN/Downloads/email-signature.html",
+		"/C/Users/IBM_ADMIN/Documents/GitHub/wrossmck.js/index.js",
+		"/C/Users/IBM_ADMIN/Documents/GitHub/breach_core/ReadMe.md",
+		"/C/Users/IBM_ADMIN/AppData/Roaming/Sublime Text 3/Packages/User/MarkdownPreview.sublime-settings",
+		"/C/Users/IBM_ADMIN/AppData/Roaming/Sublime Text 3/Packages/Markdown Preview/MarkdownPreview.sublime-settings",
+		"/C/Users/IBM_ADMIN/Documents/GitHub/wrossmck.js/README.md",
+		"/C/Users/IBM_ADMIN/Documents/GitHub/wrossmck.js/node_modules/markov/node_modules/hashish/README.markdown",
+		"/C/Users/IBM_ADMIN/Documents/GitHub/wrossmck.js/text.txt",
+		"/C/Users/IBM_ADMIN/Documents/GitHub/wrossmck.js/minitext.txt",
+		"/C/Users/IBM_ADMIN/AppData/Local/Temp/Temp1_setting up.zip/setting up/hosts",
+		"/C/Users/IBM_ADMIN/AppData/Local/Temp/Temp1_setting up.zip/setting up/Bootstrap.properties",
+		"/C/Users/IBM_ADMIN/Documents/GitHub/wrossmck.js/.gitignore",
+		"/C/Users/IBM_ADMIN/Documents/GitHub/wrossmck.js/mtext.txt",
+		"/C/Users/IBM_ADMIN/Documents/GitHub/wrossmck.js/auth.json",
+		"/C/Users/IBM_ADMIN/Documents/GitHub/wrossmck.js/node_modules/ntwitter/test/memory.js",
+		"/C/Users/IBM_ADMIN/Downloads/tweets/data/js/user_details.js",
+		"/C/Users/IBM_ADMIN/Downloads/tweets/data/js/tweet_index.js",
+		"/C/Users/IBM_ADMIN/Downloads/tweets/data/js/tweets/2014_03.js",
+		"/C/Users/IBM_ADMIN/Downloads/tweets/data/js/tweets/2010_03.js",
+		"/C/Users/IBM_ADMIN/Downloads/tweets/data/js/tweets/2010_12.js",
+		"/C/Users/IBM_ADMIN/Downloads/tweets/data/js/payload_details.js",
+		"/C/Users/IBM_ADMIN/Documents/node/tweetbot/bin/init.sh",
+		"/C/Users/IBM_ADMIN/Documents/node/tweetbot/bin/start.sh",
+		"/C/Users/IBM_ADMIN/Documents/node/twitbot/node_modules/tweetbot/index.js"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 117.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			".css",
+			"_css",
+			"'",
+			"\"",
+			"'",
+			"\"",
+			"	",
+			"that",
+			"@([0-9A-Za-z_]+)",
+			"@",
+			".@([0-9A-Za-z]+[A-Za-z0-9]+)",
+			"@__kbaker__",
+			"@",
+			"(?<=^|(?<=[^a-zA-Z0-9\\.]))@([0-9A-Za-z]+[A-Za-z0-9]+)",
+			"@",
+			"RT:",
+			"(?<=^|(?<=[^a-zA-Z0-9\\.]))@(_?[A-Za-z]+[A-Za-z0-9]+)",
+			"(?<=^|(?<=[^a-zA-Z0-9\\.]))@([A-Za-z]+[A-Za-z0-9]+)",
+			" [b-z] ",
+			" w ",
+			" i ",
+			" [b-z] ",
+			"Ã¢â‚¬Â¦",
+			"RT:",
+			"(?<=^|(?<=[^a-zA-Z0-9_\\.]))@([A-Za-z]+[A-Za-z0-9]+)",
+			"\n\n",
+			"YouTube",
+			"@TimCAD",
+			"(?<=^|(?<=[^a-zA-Z0-9_\\.]))@([A-Za-z]+[A-Za-z0-9]+)",
+			"(?<=^|(?<=[^a-zA-Z0-9-_\\.]))@([A-Za-z]+[A-Za-z0-9]+)",
+			"?<=^|(?<=[^a-zA-Z0-9-_\\.]))@([A-Za-z]+[A-Za-z0-9]+",
+			"(?<=^|(?<=[^a-zA-Z0-9-_\\.]))@([A-Za-z]+[A-Za-z0-9]+)",
+			"[@]^1[A-Za-z]*",
+			"Ã¢â‚¬Â¦",
+			"RT",
+			"  ",
+			"	",
+			"  "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"    ",
+			" I ",
+			"",
+			"	"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "README.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 625.0,
+		"selected_items":
+		[
+		],
+		"width": 475.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 231.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
