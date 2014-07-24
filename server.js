@@ -16,7 +16,6 @@ function tweetrepl () {
 			str = str.substring(0,140);// truncates to 140 characters
 			console.log("[Truncated] "+str);
 		}
-		console.log(str);
 		// send req to twitter
 		if(str.trim()!==""){
 			twit.verifyCredentials(function (err, data) {
@@ -24,6 +23,7 @@ function tweetrepl () {
 			}).updateStatus(str,
 				function (err, data) {
 				if(err){console.log(err);}
+				else{console.log("[✓] " + str);}
 				}
 			);
 		}

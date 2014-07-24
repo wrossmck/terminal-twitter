@@ -21,3 +21,7 @@ build/Release
 
 # Auth Settings
 auth.json
+
+# Sublime-text 
+.sublime-workspace
+.sublime-project
